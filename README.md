@@ -1,5 +1,5 @@
 # PROJECT - TypeScript and React: Reddit_Website
-In this project, Iam going to implement the front-end and back-end for a simplified version of the website Reddit.
+In this project is part of my undergraduate course in ICT, I am going to implement the front-end and back-end for a simplified version of the website Reddit.
 
 ----------------------
 
