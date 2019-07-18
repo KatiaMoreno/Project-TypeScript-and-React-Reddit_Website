@@ -4,7 +4,7 @@ In this project, Iam going to implement the front-end and back-end for a simplif
 ----------------------
 
 # BACK-END
-# Implementing a REST API with TypeScript and Node.js - (CA1)
+# Implementing a REST API with TypeScript and Node.js 
 In this project, I am going to implement the REST API for a for a simplified version of the website Reddit.
 
 # Technologies used: 
@@ -34,7 +34,7 @@ Create-react-app ca-2-answer --typescript
 created database 
 
 # Git Bash - command line
-open in differents windons:
+open in differents windons with names:
 CA2/CA-1-ANSWER (back-end)
 CA2/CA-2-ANSWER (front-end)
 
