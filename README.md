@@ -28,10 +28,10 @@ Create-react-app ca-2-answer --typescript
 
 ----------------------
 
-# Step by Step
+
 
 # Sqlectron - Postgres
-created database 
+to created database 
 
 # Git Bash - command line
 open in differents windons with names:
