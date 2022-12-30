@@ -20,7 +20,7 @@
     "@types/node": "11.10.4",
     "@types/supertest": "2.0.7",
     "chai": "4.2.0",
-    "mocha": "6.0.2",
+    "mocha": "10.2.0",
     "nodemon": "1.18.10",
     "nyc": "13.3.0",
     "supertest": "3.4.2",
